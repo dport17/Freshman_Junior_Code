@@ -1,6 +1,5 @@
-# hello-world
+#Devin Porter
 My first repository
 
 
-My name's Devin Porter and I'm from Michigan. GO BLUE! 
-I'm the oldest of 8 siblings, and yes, we're Catholic.
+My name is Devin Porter and this repo maintains code from the earliest days of my software development and engineering education.
