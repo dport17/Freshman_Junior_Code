@@ -1,0 +1,1311 @@
+ID: 586991 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 594431 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 611665 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 613352 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 614491 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 628541 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 632353 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 634521 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 635642 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 640351 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 641615 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 641651 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 642192 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 642681 | Course: MAC1010 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 642938 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 643295 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 643753 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 650147 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 651356 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 651388 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 651799 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 665727 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 666746 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 666806 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 667849 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 669815 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 670276 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 670606 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 670688 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 670933 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 672730 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 673420 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 673625 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 674340 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 674357 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 675479 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 676306 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 678173 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 678425 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 678676 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 679124 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 682103 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 683080 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 683467 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 683519 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 686800 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 687231 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 687341 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 691036 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 692289 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 692556 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 692858 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 693030 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 693309 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 694579 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 695976 | Course: MAC3010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 696637 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 697386 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 697818 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 698133 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 698540 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 699293 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 699661 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 699873 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 700360 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 700834 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 701157 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 701323 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 701342 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 701976 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 702055 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 702378 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 703107 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 704968 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 706167 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 708027 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 708080 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 709906 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 710007 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 710870 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 712087 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 713160 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 713381 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 714053 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 715161 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 715995 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 716024 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 716054 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 716225 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 716235 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 716279 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 716378 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 716684 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 716718 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 716961 | Course: MAC3010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 716975 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 717027 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 717152 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 717220 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 717455 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 717571 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 717692 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 717906 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 718190 | Course: MAC3010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 718714 | Course: MAC3010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 718788 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 718877 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 719064 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 719067 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 719282 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 719922 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 720214 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 720814 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 720947 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 720995 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 721012 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 721029 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 721118 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 721204 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 721298 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 721322 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 721602 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 722042 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 723021 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 723129 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 723438 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 723511 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 723631 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 723812 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 723939 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 723987 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 724280 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 724769 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 724902 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 725191 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 725244 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 725302 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 725768 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 725882 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 725933 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 726544 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 726708 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 726771 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 727121 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 727668 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 727958 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 727964 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 727996 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 728033 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 728119 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 728376 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 728415 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 728762 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 728973 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 729199 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 729594 | Course: MAC3010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 730022 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 731070 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 731190 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 732245 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 732814 | Course: MAC3032 | Section: 1 | Semester: Fall | Year: 1998
+
+ID: 734558 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 734687 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 734783 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 735151 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 735261 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 735291 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 735325 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 735531 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 735744 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 735808 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 735841 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 735892 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 735943 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2001
+
+ID: 735965 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 735979 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 736012 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 736016 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 736125 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 736349 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 736716 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 736762 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 736923 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 737258 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 737337 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 737545 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 737566 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 737567 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 737641 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 737907 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 738054 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 738086 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 738133 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 738837 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 738880 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 738890 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 738933 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 739160 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 739171 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 739253 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 739365 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 739438 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 739579 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 739660 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 739716 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 739879 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 739948 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 739953 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 740015 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 740042 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 740064 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 740067 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 740100 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 740171 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 740285 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 740463 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 740516 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 740537 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 740571 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 740601 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 740648 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 740739 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 740755 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 740788 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 740789 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 740792 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 740845 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 740894 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 740946 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 740963 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 740983 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 741057 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 741077 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 741104 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 741137 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 741142 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 741221 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 741312 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 741336 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 741367 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 741382 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 741403 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 741417 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 741435 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 741506 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 741597 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 741608 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 741717 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 741790 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 741846 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 742020 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 742181 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 742435 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 742496 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 742565 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 742584 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 742653 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 742665 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 742727 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 742738 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 742739 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 742785 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 742840 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 742880 | Course: MAC3010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 742909 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 742979 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 743028 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 743036 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 743108 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 743121 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 743196 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 743201 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 743217 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 743252 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 743270 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 743312 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 743356 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 743377 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 743416 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 743436 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 743459 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 743495 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 743507 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 743582 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 743589 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 743603 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 743621 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 743664 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 743681 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 743711 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 743712 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 743776 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 743847 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 743850 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 743889 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 743915 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 743942 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 743970 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 743985 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 744016 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 744102 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 744124 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1998
+
+ID: 744127 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 744185 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 744220 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 744226 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 744238 | Course: MAC3020 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 744349 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 744568 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 744617 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 744630 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 744630 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 744636 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 744743 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 1999
+
+ID: 744827 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 744871 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 744956 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 745052 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 745106 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 745232 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 745297 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 745400 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 745410 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 745435 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 745443 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 745484 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 745632 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 745650 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 745691 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 745750 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 745753 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 745764 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 745791 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 745835 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 745880 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 745895 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 745921 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 746066 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 746087 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 746123 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 746157 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 746186 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 746203 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 746210 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 746236 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 746259 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 746271 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 746289 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 746318 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 746406 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 746435 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 746436 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 746566 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 746577 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 746588 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 746721 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 746738 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 746753 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 746782 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 746905 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 746974 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 746977 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 747017 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 747171 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 747194 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 747266 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 747444 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 747500 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 747554 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 747583 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 747591 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 747744 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 747789 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 747892 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 747897 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 748005 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 748010 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 748011 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 748014 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 748033 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 748050 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2003
+
+ID: 748153 | Course: MAC3015 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 748290 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 748293 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 748435 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 748558 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 748568 | Course: MAC2017 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 748628 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 748679 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 748730 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 748792 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2003
+
+ID: 748821 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 748872 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 748936 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 749175 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 749234 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 749263 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 749494 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 749569 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 749717 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 749729 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 749791 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 749812 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 749907 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 750044 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 750118 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 750129 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 750285 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 750292 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 750478 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 750488 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 750580 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 750604 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 750822 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 751006 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 751069 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 751553 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 751564 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 751978 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 752009 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 752087 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 752132 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 752150 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2000
+
+ID: 752277 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 752292 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 752439 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 752447 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 752495 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 752616 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 752736 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 752825 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 752827 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 752884 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 1999
+
+ID: 753073 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 753189 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 753288 | Course: MAC3035 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 753433 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 753652 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 1999
+
+ID: 753664 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 754180 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 754359 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2001
+
+ID: 754607 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 754659 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 755436 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 755442 | Course: MAC3050 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 755958 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 756064 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 756150 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 756245 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 756447 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 757381 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 759421 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 759566 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 759659 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 759776 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 760042 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 760180 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2001
+
+ID: 760200 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 760200 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 761015 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 761239 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 761309 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 761312 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 761726 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 761967 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 762393 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 762633 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 762712 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2003
+
+ID: 762731 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 762787 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2003
+
+ID: 762852 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 763021 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 763201 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 763224 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 763363 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 763537 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 763796 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 763913 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 764213 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 764377 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 764883 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 765380 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 765432 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 765480 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 765516 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 765801 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 765818 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 765862 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 766151 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 766659 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2001
+
+ID: 766736 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 766766 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 767135 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 767147 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 767197 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 767323 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 767336 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 767464 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 767938 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 768161 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 768251 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 768279 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 768415 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 768426 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2000
+
+ID: 768475 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 768518 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 768526 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 768646 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 768841 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 768925 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 768928 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 768963 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 769001 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 769059 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 769186 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 769201 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 769438 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 769508 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 769588 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 769666 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 769666 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 769667 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 769706 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 769767 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 769800 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 769853 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 769859 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 769975 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 769984 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 770046 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 770052 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 770067 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 770101 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 770168 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 770177 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2000
+
+ID: 770292 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 770313 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 770425 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 770504 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 770848 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 770901 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2001
+
+ID: 770964 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 771042 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 771259 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 771264 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 771310 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 771409 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 771423 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 771426 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 771491 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 771699 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 771789 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 771857 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 771861 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 771912 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 771923 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2003
+
+ID: 772107 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 772109 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 772332 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 772412 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2003
+
+ID: 772567 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 772654 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 772763 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 772847 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 772897 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 772934 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 773017 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 773284 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 773395 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 773438 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 773447 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 773604 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 773658 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 773854 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 774031 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 774044 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2001
+
+ID: 774101 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 774151 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 774172 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 774223 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 774342 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 774415 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 774553 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 774595 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 774852 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 774855 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 775017 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 775286 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 775461 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 775583 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 775593 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2003
+
+ID: 775621 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 775663 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 775727 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2005
+
+ID: 775733 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 775855 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 775864 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 775931 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 776125 | Course: MAC1010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 776204 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 776245 | Course: MAC1010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 776254 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 776326 | Course: MAC3012 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 776420 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2005
+
+ID: 776436 | Course: MAC1010 | Section: 1 | Semester: Fall | Year: 2001
+
+ID: 776492 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 776521 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 776526 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 776537 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 776603 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 776669 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 776697 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 776714 | Course: MAC1010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 776740 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 776771 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 776849 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 776875 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 777082 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 777115 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 777261 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 777656 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 777684 | Course: MAC2045 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 777777 | Course: MAC2010 | Section: 1 | Semester: Fall | Year: 2003
+
+ID: 777808 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2003
+
+ID: 777992 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 778000 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 778375 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2003
+
+ID: 778440 | Course: MAC1010 | Section: 2 | Semester: Fall | Year: 2002
+
+ID: 778563 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 778803 | Course: MAC2035 | Section: 1 | Semester: Spring | Year: 2002
+
+ID: 778820 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 778864 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 779037 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 779185 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 779286 | Course: MAC2010 | Section: 2 | Semester: Spring | Year: 2003
+
+ID: 779354 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 779467 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 779511 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 780293 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2005
+
+ID: 780507 | Course: MAC3020 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 780545 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 780973 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 781084 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 781217 | Course: MAC2015 | Section: 1 | Semester: Fall | Year: 2005
+
+ID: 781227 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 781357 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 781360 | Course: MAC1000 | Section: 1 | Semester: Spring | Year: 2003
+
+ID: 781416 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 781502 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 781619 | Course: MAC1010 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 781968 | Course: MAC3045 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 782026 | Course: MAC2021 | Section: 1 | Semester: Spring | Year: 2006
+
+ID: 782057 | Course: MAC3045 | Section: 1 | Semester: Fall | Year: 2002
+
+ID: 782065 | Course: MAC1075 | Section: 1 | Semester: Spring | Year: 2004
+
+ID: 782153 | Course: MAC2010 | Section: 1 | Semester: Spring | Year: 2005
+
+ID: 782231 | Course: MAC10
